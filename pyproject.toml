@@ -8,6 +8,8 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 typer = "^0.12.3"
+pywin32 = "^306"
+python-dotenv = "^1.0.1"
 
 
 [build-system]

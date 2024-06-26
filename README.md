@@ -10,4 +10,5 @@ once you provide the python file to run.
 - Hidden more and highest previlages, make sure you get the password prompt
 - Working directory should be current directory of the script
 - Point to the .bat file to be the program that is to be run and then start the task
+- see task-creation-powershell dir for a function that creates a task using subprocess and a powershell script
 
